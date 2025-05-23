@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="new logo.jpg"
+                src="./new logo.jpg"
                 alt="Maddy Frame Shop Logo"
                 className="h-10 w-auto rounded-md"
               />
