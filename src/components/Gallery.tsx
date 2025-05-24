@@ -9,22 +9,22 @@ const Gallery: React.FC = () => {
   // Sample gallery items - replace with your actual images
   const galleryItems = [
     {
-      image: "ChatGPT Image May 21, 2025, 11_36_57 AM.png",
+      image: "1.png",
       title: "Classic Wooden Frame",
       description: "Crafted with vintage charm and modern strength"
     },
     {
-      image: "ChatGPT Image May 22, 2025, 09_29_41 AM.png",
+      image: "2.png",
       title: "Minimalist Black Frame",
       description: "Ideal for studio or modern living spaces"
     },
     {
-      image: "ChatGPT Image May 22, 2025, 09_34_08 AM.png",
+      image: "3.png",
       title: "Rustic Wall Display",
       description: "Perfect for cozy, homey interiors"
     },
     {
-      image: "WhatsApp Image 2025-05-21 at 09.21.01_48da30e6.jpg",
+      image: "4.jpg",
       title: "Elegant White Frame",
       description: "Sophisticated simplicity for any decor"
     },
@@ -34,12 +34,12 @@ const Gallery: React.FC = () => {
       description: "Showcase multiple memories in one piece"
     },
     {
-      image: "Untitled design (1).png", // 🔁 Replace with your actual file name
+      image: "5.png", // 🔁 Replace with your actual file name
       title: "Vintage Gold Frame",
       description: "Adds a touch of regal elegance to your portraits"
     },
     {
-      image: "tuxpi.com.1748003542.jpg", // 🔁 Replace with your actual file name
+      image: "6.jpg", // 🔁 Replace with your actual file name
       title: "Floating Canvas Frame",
       description: "Modern look with sleek edge presentation"
     },

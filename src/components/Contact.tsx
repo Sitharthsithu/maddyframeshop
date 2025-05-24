@@ -49,7 +49,7 @@ const Contact: React.FC = () => {
         {/* Centered Contact Info Card */}
         <div className="max-w-3xl mx-auto bg-white rounded-xl shadow-lg p-8 text-center">
           <div className="flex flex-col items-center gap-4 mb-8">
-            <img src="new logo.jpg" alt="Maddy Frame Shop Logo" className="h-16 w-auto" />
+            <img src="/newlogo.jpg" alt="Maddy Frame Shop Logo" className="h-16 w-auto" />
             <h3 className="text-2xl font-bold">MADDY FRAME SHOP</h3>
           </div>
 
